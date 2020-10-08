@@ -17,9 +17,7 @@
 　2020年8月至今：博士，哈尔滨工业大学，计算学部，社会计算与信息检索研究中心，情感计算组
  
 ### 研究方向
-　自然语言处理、文本情感分析、对话情感
- 
-　指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
+　自然语言处理、文本情感分析、对话情感， 指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
 
 ### 发表文章
  1. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
