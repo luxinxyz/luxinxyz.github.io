@@ -2,11 +2,9 @@
 
 ### 基本信息
 
-　**性别:** 男　　　　　　　　　　**民族:** 汉
+　**性别:** 男　　　　　　　　　　**Email:** xlu@ir.hit.edu.cn
 
-　**出生年月:** 1996年7月　　　　 **Email:** xlu@ir.hit.edu.cn
-
-　**个人主页:** [http://luxin.xyz](http://luxin.xyz)　　 **Github:** [https://github.com/luxinxyz](https://github.com/luxinxyz)
+　**个人主页:** [http://luxin.xyz](http://luxin.xyz)　　 **Email:** xlu@ir.hit.edu.cn
 
 
 ### 教育经历 
