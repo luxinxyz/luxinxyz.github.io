@@ -22,6 +22,7 @@
 
 ### 发表文章
 　1. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
+　2. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
 
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
