@@ -18,6 +18,7 @@
  
 ### 研究方向
 　自然语言处理、文本情感分析、对话情感
+ 
 　指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
 
 ### 发表文章
