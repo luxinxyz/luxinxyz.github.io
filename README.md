@@ -21,7 +21,7 @@
 　指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
 
 ### 发表文章
-　- **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
+　1. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
 
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
