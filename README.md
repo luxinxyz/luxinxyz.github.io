@@ -22,5 +22,7 @@
 
  2. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
 
+ 3. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
+
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
