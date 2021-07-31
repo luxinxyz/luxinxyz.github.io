@@ -24,5 +24,7 @@
 
  3. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
 
+ 4. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
