@@ -18,13 +18,15 @@
 　自然语言处理、文本情感分析、对话情感， 指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
 
 ### 发表文章
- 1. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
+ 1. **Xin Lu**, Yijian Tian, Yanyan Zhao, and Bing Qin. Retrieve, Discriminate and Rewrite: A Simple and Effective Framework for Obtaining Affective Response in Retrieval-Based Chatbots. Findings of the Association for Computational Linguistics: EMNLP 2021 (Findings of EMNLP 2021). 2021
 
- 2. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
+ 2. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
 
- 3. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
+ 3. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
 
  4. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+
+ 5. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
 
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
