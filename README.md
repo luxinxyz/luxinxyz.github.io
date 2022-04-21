@@ -22,11 +22,13 @@
 
  2. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
 
- 3. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
+ 3. Weixiang Zhao, Yanyan Zhao and **Xin Lu**. CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations. The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). 2022. CCF A类
 
- 4. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+ 4. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
 
- 5. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
+ 5. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+
+ 6. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
 
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
