@@ -26,15 +26,19 @@
 
  4. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
 
- 5. Bichen Wang, Yanyan Zhao, **Xin Lu** and Bing Qin. Cognitive Distortion Based Explainable Depression Detection and Analysis Technologies for the Adolescent Internet Users on Social Media. Frontiers in Public Health. 2023. SCI
+ 5. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Shilong Wang, Yanpeng Tong and Bing Qin. Is ChatGPT Equipped with Emotional Dialogue Capabilities?. arXiv. 2023
 
- 6. Weixiang Zhao, Yanyan Zhao and **Xin Lu**. CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations. The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). 2022. CCF A类
+ 6. Weixiang Zhao, Yanyan Zhao, **Xin Lu** and Bing Qin. Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness. Findings of the Association for Computational Linguistics: ACL 2023 (Findings of ACL 2023). 2023
 
- 7. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
+ 7. Bichen Wang, Yanyan Zhao, **Xin Lu** and Bing Qin. Cognitive Distortion Based Explainable Depression Detection and Analysis Technologies for the Adolescent Internet Users on Social Media. Frontiers in Public Health. 2023. SCI
 
- 8. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+ 8. Weixiang Zhao, Yanyan Zhao and **Xin Lu**. CauAIN: Causal Aware Interaction Network for Emotion Recognition in Conversations. The 31st International Joint Conference on Artificial Intelligence (IJCAI 2022). 2022. CCF A类
 
- 9. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
+ 9. Yang Wu, Yanyan Zhao, **Xin Lu**, Bing Qin, Yin Wu, Jian Sheng and Jinlong Li. Modeling Incongruity between Modalities for Multimodal Sarcasm Detection. IEEE MultiMedia. 2021. SCI
+
+ 10. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Bing Qin. An Aspect-Centralized Graph Convolutional Network for Aspect-based Sentiment Classification. The 10th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC 2021). 2021. CCF C类
+
+ 11. Jianhua Yuan, Yang Wu, **Xin Lu**, Yanyan Zhao, Bing Qin and Ting Liu. Recent Advances in Deep Learning Based Sentiment Analysis. SCIENCE CHINA Technological Sciences. 2020. SCI
 
 ### 实习经历
 　2017年9月至2018年8月：科大讯飞北京研究院
