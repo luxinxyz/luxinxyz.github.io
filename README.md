@@ -26,7 +26,7 @@
 
  4. **Xin Lu**, Yanyan Zhao, Yang Wu, Yijian Tian, Huipeng Chen and Bing Qin. An Iterative Emotion Interaction Network for Emotion Recognition in Conversations. Proceeding of the 28th International Conference on Computational Linguistics (COLING 2020). 2020. CCF B类
 
- 5. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Shilong Wang, Yanpeng Tong and Bing Qin. Is ChatGPT Equipped with Emotional Dialogue Capabilities?. arXiv. 2023
+ 5. Weixiang Zhao, Yanyan Zhao, **Xin Lu**, Shilong Wang, Yanpeng Tong and Bing Qin. Is ChatGPT Equipped with Emotional Dialogue Capabilities? arXiv. 2023
 
  6. Weixiang Zhao, Yanyan Zhao, **Xin Lu** and Bing Qin. Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness. Findings of the Association for Computational Linguistics: ACL 2023 (Findings of ACL 2023). 2023
 
