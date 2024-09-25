@@ -18,7 +18,7 @@
 　自然语言处理、文本情感分析、对话情感， 指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
 
 ### 发表文章
- 1. **Xin Lu**, Yanyan Zhao and Bing Qin. How does Architecture Influence the Base Capabilities of Pre-trained Language Models? A Case Study Based on FFN-Wider Transformer Models. arXiv. 2024
+ 1. **Xin Lu**, Yanyan Zhao, Bing Qin, Liangyu Huo, Qing Yang and Dongliang Xu. How does Architecture Influence the Base Capabilities of Pre-trained Language Models? A Case Study Based on FFN-Wider and MoE Transformers. The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024). 2024. CCF A类
  
  2. **Xin Lu**, Yanyan Zhao and Bing Qin. Vanilla Transformers are Transfer Capability Teachers. arXiv. 2024
  
