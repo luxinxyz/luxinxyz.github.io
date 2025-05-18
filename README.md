@@ -4,15 +4,15 @@
 
 　**性别:** 男　　　　　　　　　　**Email:** xlu@ir.hit.edu.cn
 
-　**个人主页:** [http://luxin.xyz](http://luxin.xyz)　　 **Github:** [https://github.com/luxinxyz](https://github.com/luxinxyz)
+　**个人主页:** [https://luxin.xyz](https://luxin.xyz)　　 **Github:** [https://github.com/luxinxyz](https://github.com/luxinxyz)
 
 
 ### 教育经历 
 　2014年9月至2018年6月：本科，哈尔滨工业大学，计算机科学与技术学院
 
-　2018年9月至2020年6月：硕士，哈尔滨工业大学，计算机科学与技术学院，社会计算与信息检索研究中心，情感计算组
+　2018年9月至2020年6月：硕士，哈尔滨工业大学，计算机科学与技术学院，社会计算与交互机器人研究中心，情感计算组
 
-　2020年8月至今：在读博士，哈尔滨工业大学，计算学部，社会计算与信息检索研究中心，情感计算组
+　2020年8月至今：在读博士，哈尔滨工业大学，计算学部，社会计算与交互机器人研究中心，情感计算组
  
 ### 研究方向
 　自然语言处理、文本情感分析、对话情感， 指导老师：[秦兵](http://ir.hit.edu.cn/~qinb) 和 [赵妍妍](http://ir.hit.edu.cn/~yanyan)
